@@ -1,0 +1,135 @@
+.Frame1 {
+    width: 1728px;
+    height: 3246px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+  }
+  
+  .Group3 {
+    width: 1728px;
+    height: 3246px;
+    position: relative;
+  }
+  
+  .MacbookPro164 {
+    width: 1728px;
+    height: 3246px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background: white;
+  }
+  
+  .About {
+    width: 88px;
+    height: 29px;
+    position: absolute;
+    color: #ABABAB;
+    font-size: 16px;
+    font-family: 'Gowun Dodum';
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .ContactUs {
+    width: 163px;
+    height: 29px;
+    position: absolute;
+    color: #ABABAB;
+    font-size: 16px;
+    font-family: 'Gowun Dodum';
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Line1, .Line2 {
+    position: absolute;
+    background: #858181;
+    border: 1px #ABABAB solid;
+  }
+  
+  .Line1 {
+    width: 15px;
+    height: 0;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+  }
+  
+  .Line2 {
+    width: 24px;
+    height: 0;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+  }
+  
+  .Search {
+    width: 88px;
+    height: 29px;
+    position: absolute;
+    color: #ABABAB;
+    font-size: 15px;
+    font-family: 'Gowun Dodum';
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  /* Define other classes as needed, e.g., Rectangle9, Rectangle15, etc. */
+  
+  .Rectangle9, .Rectangle15, .Rectangle11, .Rectangle12 {
+    background: white;
+  }
+  
+  .Rectangle9, .Rectangle15 {
+    width: 1728px;
+    height: 194px;
+  }
+  
+  .Rectangle11 {
+    width: 224px;
+    height: 30px;
+    border: 1px #ABABAB solid;
+  }
+  
+  .Rectangle12 {
+    width: 32px;
+    height: 28px;
+    background: #5FB41E;
+  }
+  
+  .Vector, .Vector2, .Vector3, .Vector4, .Vector5 {
+    border: 2px white solid;
+  }
+  
+  .Vector {
+    width: 265px;
+    height: 104px;
+  }
+  
+  .Vector2, .Vector3, .Vector4, .Vector5 {
+    width: 6px;
+    height: 5px;
+  }
+  
+  .Earthquake, .PrepareBeforeAnEarthquake, .StaySafeDuring, .ProtectYourselfDuringEarthquakes, .StaySafeAfter {
+    color: black;
+    font-family: 'Magra';
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .Earthquake {
+    width: 256px;
+    height: 45px;
+    font-size: 53px;
+  }
+  
+  .PrepareBeforeAnEarthquake, .StaySafeDuring, .ProtectYourselfDuringEarthquakes, .StaySafeAfter {
+    width: 849px;
+    height: 45px;
+    font-size: 30px;
+    color: #438A0D;
+  }
+  
+  /* Add more styles based on your needs */
